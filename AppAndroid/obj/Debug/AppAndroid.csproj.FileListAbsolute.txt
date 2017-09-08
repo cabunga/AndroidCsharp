@@ -1,0 +1,15 @@
+c:\users\jimmym\source\repos\AppAndroid\AppAndroid\bin\Debug\AppAndroid.dll
+c:\users\jimmym\source\repos\AppAndroid\AppAndroid\bin\Debug\AppAndroid.pdb
+c:\users\jimmym\source\repos\AppAndroid\AppAndroid\bin\Debug\AppAndroid.AppAndroid.apk
+c:\users\jimmym\source\repos\AppAndroid\AppAndroid\bin\Debug\AppAndroid.AppAndroid-Signed.apk
+c:\users\jimmym\source\repos\AppAndroid\AppAndroid\obj\Debug\AppAndroid.csproj.CoreCompileInputs.cache
+c:\users\jimmym\source\repos\AppAndroid\AppAndroid\obj\Debug\AppAndroid.dll
+c:\users\jimmym\source\repos\AppAndroid\AppAndroid\obj\Debug\AppAndroid.pdb
+c:\users\jimmym\source\repos\AppAndroid\AppAndroid\obj\Debug\android\bin\AppAndroid.AppAndroid.apk
+c:\users\jimmym\source\repos\AppAndroid\AppAndroid\obj\Debug\res\layout\main.xml
+c:\users\jimmym\source\repos\AppAndroid\AppAndroid\obj\Debug\res\values\strings.xml
+c:\users\jimmym\source\repos\AppAndroid\AppAndroid\obj\Debug\R.cs.flag
+c:\users\jimmym\source\repos\AppAndroid\AppAndroid\obj\Debug\uploadflags.txt
+c:\users\jimmym\source\repos\AppAndroid\AppAndroid\obj\Debug\AppAndroid.csprojResolveAssemblyReference.cache
+c:\users\jimmym\source\repos\AppAndroid\AppAndroid\bin\Debug\AppAndroid.dll.mdb
+c:\users\jimmym\source\repos\AppAndroid\AppAndroid\obj\Debug\android\assets\AppAndroid.dll.mdb
